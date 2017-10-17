@@ -1,11 +1,21 @@
-#**Quick Start on Windows**
+#**Quick Start to run jupyter notebook on Windows**
 
 1. Open CMD window
 2. CD to project directory:
-	cd C:\Users\ra9623\OneDrive for Business 1\Udacity\SDCND\projects\term1\CarND-LaneLines-P1
+	cd C:\Users\RA9623\OneDrive - NXP\Udacity\SDCND\projects\term1\CarND-LaneLines-P1 
 3. Activate anaconda environment for Udacity SDC Engineer Term 1:
 	activate carnd-term1
-4. Run jupyter notebook
+4. Run jupyter notebook:
+	jupyter notebook P1.ipynb
+
+#**Quick Start to run jupyter notebook on Ubuntu**
+
+1. Open terminal window
+2. CD to project directory:
+	cd /home/joe/udacity/SDCND/projects/term1/CarND-LaneLines-P1
+3. Activate anaconda environment for Udacity SDC Engineer Term 1:
+	source activate carnd-term1
+4. Run jupyter notebook:
 	jupyter notebook P1.ipynb
 
 #**Finding Lane Lines on the Road** 
